@@ -33,8 +33,9 @@ The system converts video into text and identifies important segments, making co
 - Smart cropping using MediaPipe
 
 ## 🎥 Demo Video
-(https://drive.google.com/file/d/1Bhw2-Y9eGlM8NKmHc1mCVPMrW8gy7jEO/view?usp=drive_link)
+https://drive.google.com/file/d/1Bhw2-Y9eGlM8NKmHc1mCVPMrW8gy7jEO/view?usp=drive_link
 
 ## 📂 GitHub Repository
+https://github.com/pooja64-13/attentionx.git
 
 
