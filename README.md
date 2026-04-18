@@ -33,7 +33,7 @@ The system converts video into text and identifies important segments, making co
 - Smart cropping using MediaPipe
 
 ## 🎥 Demo Video
-(Add your Google Drive link here after recording)
+(https://drive.google.com/file/d/1Bhw2-Y9eGlM8NKmHc1mCVPMrW8gy7jEO/view?usp=drive_link)
 
 ## 📂 GitHub Repository
-(Your repo link)
+
